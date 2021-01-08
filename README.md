@@ -5,6 +5,11 @@ Wong, Chi Heem, and Albert K. Tsui. "Forecasting life expectancy: Evidence from 
 
 Please cite the paper if you used this code in your work!
 
+# Dependent packages
+- `numpy (tested on 1.18.5)`
+- `matplotlib (tested on 3.1.0)`
+- `scipy (tested on 1.14)`
+
 # Example usage
 ```python
 sx = [1, 0.9, 0.889, 0.858, 0.813, 0.739, 0.617, 0.421, 0.181, 0.0278, 0.011, 0.000001]
